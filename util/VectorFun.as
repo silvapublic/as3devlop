@@ -1,4 +1,4 @@
-package app.utility.vector {
+package util {
 	import flash.display.Shape;
 	/**
 	 * 矢量功能类
